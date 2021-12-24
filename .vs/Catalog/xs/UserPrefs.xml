@@ -1,0 +1,45 @@
+﻿<Properties StartupConfiguration="{02C21D15-B062-4536-BE9E-D429716AA31A}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Catalog/Repositories/MongoDbItemsRepository.cs">
+    <Files>
+      <File FileName="Catalog/appsettings.json" Line="12" Column="20" />
+      <File FileName="Catalog/Startup.cs" />
+      <File FileName="Catalog/Properties/launchSettings.json" />
+      <File FileName="Catalog/Entities/Item.cs" />
+      <File FileName="Catalog/Repositories/InMemItemsRepository.cs" Line="1" Column="1" />
+      <File FileName="Catalog/Controllers/ItemsController.cs" />
+      <File FileName="Catalog/Controllers/WeatherForecastController.cs" />
+      <File FileName="Catalog/Program.cs" />
+      <File FileName="Catalog/Repositories/IInMemItemsRepository.cs" />
+      <File FileName="Catalog/Dtos/ItemDto.cs" />
+      <File FileName="Catalog/Extensions.cs" />
+      <File FileName="Catalog/Dtos/CreateItemDto.cs" />
+      <File FileName="Catalog/Dtos/UpdateItemDto.cs" />
+      <File FileName="Catalog/Repositories/MongoDbItemsRepository.cs" Line="1" Column="1" />
+      <File FileName="Catalog/Settings/MongoDbSettings.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Catalog" expanded="True">
+            <Node name="Catalog" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Dtos" expanded="True" />
+              <Node name="Entities" expanded="True" />
+              <Node name="Repositories" expanded="True">
+                <Node name="MongoDbItemsRepository.cs" selected="True" />
+              </Node>
+              <Node name="Settings" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Catalog PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
